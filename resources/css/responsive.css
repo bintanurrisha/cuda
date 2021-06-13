@@ -1,0 +1,41 @@
+@media (max-width:991px)
+{
+  .header {
+
+    height: 70vh;
+
+  }
+  .container {
+
+    max-width: 861px;
+
+}
+.team .br{
+    margin-bottom: 0rem;
+  }
+  .client p ,.client .h2 ,.client h4
+  {
+    text-align: center;
+  }
+
+}
+@media (max-width:767px)
+{
+  .container {
+
+    max-width: 650px;
+
+}
+.navbar-expand-md .navbar-collapse{
+  display: none !important;
+  }
+  h1 {
+    font-size: 3.4rem;
+}
+h2{
+  font-size: 3rem;
+}
+.contuct .width{
+width: 100%;
+}
+}
